@@ -12,6 +12,8 @@ To run this app, you can:
 
 This app was a project assignment from UMD CMSC434 Human Computer Interaction class.
 
+Asociated Youtube Video: https://youtu.be/8fWVZYpPS1o
+
 # Credits
 
 The following are some of the resources used to make this project:
